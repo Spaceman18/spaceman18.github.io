@@ -1,5 +1,4 @@
 ---
-title: "Nocturnal Writeup"
 tags: ["HackTheBox",  "Easy", "Linux"]
 ---
 
