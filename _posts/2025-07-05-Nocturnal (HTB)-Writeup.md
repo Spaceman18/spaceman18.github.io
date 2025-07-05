@@ -15,4 +15,4 @@ Themes: Web Reconnaisance, Vulnerable Custom Code, Credentials Reuse, SSH Local 
 
 Tools: ffuf, gobuster, burpsuite, ssh, sqlite3
 
-*As this box is currently active I will update with my writeup when it foes into retirement.*
+*As this box is currently active I will update with my writeup when it goes into retirement.*
