@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Welcome to my Blog!
+This will mainly be used to document my progress with HackTheBox/Proving Grounds/TryHackMe Machines, as well as anything cool I do or come across.
